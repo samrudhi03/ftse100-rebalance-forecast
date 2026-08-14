@@ -1,0 +1,351 @@
+ticker,company_name,current_index,market_cap,rank,predicted_action
+HSBA.L,HSBC,FTSE 100,263217840128.0,1.0,no change
+SHEL.L,Shell plc,FTSE 100,183616667648.0,2.0,no change
+AZN.L,AstraZeneca,FTSE 100,177855594496.0,3.0,no change
+RR.L,Rolls-Royce Holdings,FTSE 100,127388991488.0,4.0,no change
+RIO.L,Rio Tinto,FTSE 100,115933143040.0,5.0,no change
+ULVR.L,Unilever,FTSE 100,98748702720.0,6.0,no change
+BATS.L,British American Tobacco,FTSE 100,90189742080.0,7.0,no change
+BP.L,BP,FTSE 100,80906952704.0,8.0,no change
+GSK.L,GSK plc,FTSE 100,72647770112.0,9.0,no change
+BARC.L,Barclays,FTSE 100,70089474048.0,10.0,no change
+LLOY.L,Lloyds Banking Group,FTSE 100,67001700352.0,11.0,no change
+BA.L,BAE Systems,FTSE 100,66068033536.0,12.0,no change
+GLEN.L,Glencore,FTSE 100,64589754368.0,13.0,no change
+NG.L,National Grid plc,FTSE 100,59994861568.0,14.0,no change
+NWG.L,NatWest Group,FTSE 100,56260562944.0,15.0,no change
+STAN.L,Standard Chartered,FTSE 100,48841699328.0,16.0,no change
+REL.L,RELX,FTSE 100,44001075200.0,17.0,no change
+AAL.L,Anglo American plc,FTSE 100,41734455296.0,18.0,no change
+LSEG.L,London Stock Exchange Group,FTSE 100,41142185984.0,19.0,no change
+CPG.L,Compass Group,FTSE 100,40459047939.359024,20.0,no change
+DGE.L,Diageo,FTSE 100,39135358976.0,21.0,no change
+ANTO.L,Antofagasta plc,FTSE 100,35599286272.0,22.0,no change
+CCEP.L,Coca-Cola Europacific Partners,FTSE 100,35152621568.0,23.0,no change
+RKT.L,Reckitt,FTSE 100,32372668416.0,24.0,no change
+HLN.L,Haleon,FTSE 100,31276240896.0,25.0,no change
+SSE.L,SSE plc,FTSE 100,29083865088.0,26.0,no change
+TSCO.L,Tesco,FTSE 100,28789166080.0,27.0,no change
+VOD.L,Vodafone Group,FTSE 100,28025899008.0,28.0,no change
+III.L,3i,FTSE 100,27724505088.0,29.0,no change
+EXPN.L,Experian,FTSE 100,25561593856.0,30.0,no change
+PRU.L,Prudential plc,FTSE 100,25529335808.0,31.0,no change
+AV.L,Aviva,FTSE 100,21693943808.0,32.0,no change
+FRES.L,Fresnillo plc,FTSE 100,21495185408.0,33.0,no change
+IMB.L,Imperial Brands,FTSE 100,19815587840.0,34.0,no change
+BT-A.L,BT Group,FTSE 100,19776217088.0,35.0,no change
+IAG.L,International Airlines Group,FTSE 100,19584862208.0,36.0,no change
+NXT.L,Next plc,FTSE 100,17431017472.0,37.0,no change
+IHG.L,IHG Hotels & Resorts,FTSE 100,17399238480.060257,38.0,no change
+CCH.L,Coca-Cola HBC,FTSE 100,16845551616.0,39.0,no change
+LGEN.L,Legal & General,FTSE 100,16566531072.0,40.0,no change
+SMT.L,Scottish Mortgage Investment Trust,FTSE 100,15349485568.0,41.0,no change
+ABF.L,Associated British Foods,FTSE 100,14396851200.0,42.0,no change
+HLMA.L,Halma plc,FTSE 100,13981215744.0,43.0,no change
+SGRO.L,Segro,FTSE 100,13016972288.0,44.0,no change
+AAF.L,Airtel Africa,FTSE 100,12000567296.0,45.0,no change
+ADM.L,Admiral Group,FTSE 100,11722936320.0,46.0,no change
+INF.L,Informa,FTSE 100,11588529152.0,47.0,no change
+UU.L,United Utilities,FTSE 100,10504096768.0,48.0,no change
+EDV.L,Endeavour Mining,FTSE 100,10051544064.0,49.0,no change
+DPLM.L,Diploma,FTSE 100,9889494016.0,50.0,no change
+SGE.L,Sage Group,FTSE 100,9415204864.0,51.0,no change
+SVT.L,Severn Trent,FTSE 100,9357255680.0,52.0,no change
+SDLF.L,Standard Life,FTSE 100,9305075712.0,53.0,no change
+SN.L,Smith & Nephew,FTSE 100,9151404032.0,54.0,no change
+SDR.L,Schroders,FTSE 100,9098637312.0,55.0,no change
+ITRK.L,Intertek,FTSE 100,8956504064.0,56.0,no change
+RTO.L,Rentokil Initial,FTSE 100,8847099904.0,57.0,no change
+BNZL.L,Bunzl,FTSE 100,8817540096.0,58.0,no change
+MNG.L,M&G,FTSE 100,8611051520.0,59.0,no change
+MKS.L,Marks & Spencer,FTSE 100,7950730752.0,60.0,no change
+BEZ.L,Beazley,FTSE 100,7696051200.0,61.0,no change
+SMIN.L,Smiths Group,FTSE 100,7619867648.0,62.0,no change
+PCT.L,Polar Capital Technology Trust,FTSE 100,7514727424.0,63.0,no change
+SBRY.L,Sainsbury's,FTSE 100,7503387648.0,64.0,no change
+IMI.L,IMI,FTSE 100,7288197632.0,65.0,no change
+PSON.L,Pearson plc,FTSE 100,7225914368.0,66.0,no change
+CNA.L,Centrica,FTSE 100,7223894528.0,67.0,no change
+WEIR.L,Weir,FTSE 100,6952410624.0,68.0,no change
+PSH.L,Pershing Square Holdings,FTSE 100,6911252480.0,69.0,no change
+FCIT.L,F & C Investment Trust,FTSE 100,6479820800.0,70.0,no change
+GAW.L,Games Workshop,FTSE 100,6291737600.0,71.0,no change
+MRO.L,Melrose Industries,FTSE 100,6138276864.0,72.0,no change
+INVP.L,Investec,FTSE 100,6098963456.0,73.0,no change
+ICG.L,ICG,FTSE 100,5977484800.0,74.0,no change
+MTLN.L,Metlen Energy & Metals,FTSE 100,5968301125.859369,75.0,no change
+STJ.L,St. James's Place,FTSE 100,5954334720.0,76.0,no change
+BAB.L,Babcock International,FTSE 100,5949889536.0,77.0,no change
+BGEO.L,Lion Finance Group,FTSE 100,5839024128.0,78.0,no change
+HSX.L,Hiscox,FTSE 100,5721144832.0,79.0,no change
+DCC.L,DCC Energy,FTSE 100,5441517568.0,80.0,no change
+KGF.L,Kingfisher plc,FTSE 100,5343754240.0,81.0,no change
+LAND.L,Land Securities,FTSE 100,5304752128.0,82.0,no change
+CCC.L,Computacenter,FTSE 100,5278915584.0,83.0,no change
+SPX.L,Spirax Group,FTSE 100,5221058560.0,84.0,no change
+ALW.L,Alliance Witan,FTSE 100,5130337792.0,85.0,no change
+EZJ.L,EasyJet,FTSE 250,5030851584.0,86.0,add
+LMP.L,LondonMetric Property,FTSE 100,4548611072.0,87.0,no change
+BTRW.L,Barratt Redrow,FTSE 100,4535609856.0,88.0,no change
+CRDA.L,Croda International,FTSE 100,4531796480.0,89.0,no change
+HWDN.L,Howdens Joinery,FTSE 100,4530704896.0,90.0,no change
+ABDN.L,Aberdeen Group,FTSE 100,4502464512.0,91.0,no change
+BLND.L,British Land,FTSE 100,4497419264.0,92.0,no change
+IGG.L,IG Group,FTSE 100,4479731712.0,93.0,no change
+CTEC.L,Convatec,FTSE 100,4456018944.0,94.0,no change
+JD.L,JD Sports,FTSE 100,4422688768.0,95.0,no change
+BBY.L,Balfour Beatty,FTSE 250,4376591872.0,96.0,no change
+BBOX.L,Tritax Big Box REIT,FTSE 100,4362333184.0,97.0,no change
+WPP.L,WPP,FTSE 250,4337825792.0,98.0,no change
+AUTO.L,Autotrader Group,FTSE 100,4198293760.0,99.0,no change
+WTB.L,Whitbread,FTSE 100,4185223936.0,100.0,no change
+ITH.L,Ithaca Energy,FTSE 250,4021620480.0,101.0,no change
+SCT.L,Softcat,FTSE 250,3985610496.0,102.0,no change
+HBR.L,Harbour Energy,FTSE 250,3879958272.0,103.0,no change
+MNDI.L,Mondi,FTSE 250,3873731328.0,104.0,no change
+BRBY.L,Burberry Group,FTSE 100,3850764288.0,105.0,no change
+PSN.L,Persimmon,FTSE 100,3800247296.0,106.0,no change
+RSW.L,Renishaw,FTSE 250,3796756480.0,107.0,no change
+RMV.L,Rightmove,FTSE 250,3757777920.0,108.0,no change
+JMAT.L,Johnson Matthey,FTSE 250,3683404288.0,109.0,no change
+ENT.L,Entain,FTSE 100,3621880064.0,110.0,remove
+3IN.L,3i Infrastructure,FTSE 250,3527988736.0,111.0,no change
+EMG.L,Man Group,FTSE 250,3477933312.0,112.0,no change
+FRAS.L,Frasers Group,FTSE 250,3468055552.0,113.0,no change
+ROSE.L,Rosebank Industries,FTSE 250,3458090240.0,114.0,no change
+JGGI.L,JPMorgan Global Growth & Income,FTSE 250,3454409984.0,115.0,no change
+HIK.L,Hikma Pharmaceuticals,FTSE 250,3382872576.0,116.0,no change
+RS1.L,RS Group,FTSE 250,3370799872.0,117.0,no change
+BKG.L,Berkeley Group Holdings,FTSE 250,3309887488.0,118.0,no change
+RCP.L,RIT Capital Partners,FTSE 250,3242500864.0,119.0,no change
+CTY.L,City of London Investment Trust,FTSE 250,3044766208.0,120.0,no change
+BPT.L,Bridgepoint Group,FTSE 250,3000821760.0,121.0,no change
+TW.L,Taylor Wimpey,FTSE 250,2962819584.0,122.0,no change
+TEM.L,Templeton Emerging Markets Investment Trust,FTSE 250,2944278528.0,123.0,no change
+QQ.L,Qinetiq,FTSE 250,2913493248.0,124.0,no change
+INCH.L,Inchcape,FTSE 250,2862672384.0,125.0,no change
+CWK.L,Cranswick,FTSE 250,2803882496.0,126.0,no change
+SHC.L,Shaftesbury Capital,FTSE 250,2747959296.0,127.0,no change
+UTG.L,Unite Group,FTSE 250,2728621056.0,128.0,no change
+QLT.L,Quilter,FTSE 250,2670483456.0,129.0,no change
+HOC.L,Hochschild Mining,FTSE 250,2662322432.0,130.0,no change
+ITV.L,ITV,FTSE 250,2658425088.0,131.0,no change
+TBCG.L,TBC Bank,FTSE 250,2652828160.0,132.0,no change
+SRP.L,Serco,FTSE 250,2625435904.0,133.0,no change
+PLUS.L,Plus500,FTSE 250,2593147136.0,134.0,no change
+MTO.L,Mitie,FTSE 250,2588208384.0,135.0,no change
+HICL.L,HICL Infrastructure Company,FTSE 250,2584795392.0,136.0,no change
+MNKS.L,Monks Investment Trust,FTSE 250,2505152768.0,137.0,no change
+INPP.L,International Public Partnerships,FTSE 250,2495560704.0,138.0,no change
+PHP.L,Primary Health Properties,FTSE 250,2486010112.0,139.0,no change
+TATE.L,Tate & Lyle,FTSE 250,2449595136.0,140.0,no change
+BWY.L,Bellway,FTSE 250,2441475328.0,141.0,no change
+AJB.L,AJ Bell,FTSE 250,2433102848.0,142.0,no change
+DRX.L,Drax Group,FTSE 250,2430876160.0,143.0,no change
+HVPE.L,HarbourVest Global Private Equity,FTSE 250,2412563200.0,144.0,no change
+ATT.L,Allianz Technology Trust,FTSE 250,2411231744.0,145.0,no change
+UKW.L,Greencoat UK Wind,FTSE 250,2392775680.0,146.0,no change
+BME.L,B&M,FTSE 250,2329678848.0,147.0,no change
+TCAP.L,TP ICAP,FTSE 250,2325355008.0,148.0,no change
+DLN.L,Derwent London,FTSE 250,2321871360.0,149.0,no change
+JTC.L,JTC,FTSE 250,2301965056.0,150.0,no change
+KIE.L,Kier Group,FTSE 250,2278688256.0,151.0,no change
+HILS.L,Hill & Smith,FTSE 250,2275631104.0,152.0,no change
+HMSO.L,Hammerson,FTSE 250,2231794432.0,153.0,no change
+PAF.L,Pan African Resources,FTSE 250,2221935616.0,154.0,no change
+MYI.L,Murray International Trust,FTSE 250,2188706560.0,155.0,no change
+FEV.L,Fidelity European Trust,FTSE 250,2176956928.0,156.0,no change
+PNN.L,Pennon Group,FTSE 250,2176571904.0,157.0,no change
+N91.L,Ninety One,FTSE 250,2167940608.0,158.0,no change
+MGNS.L,Morgan Sindall Group,FTSE 250,2128302208.0,159.0,no change
+KLR.L,Keller Group,FTSE 250,2102217728.0,160.0,no change
+GNC.L,Greencore,FTSE 250,2101805184.0,161.0,no change
+HTWS.L,Helios Towers,FTSE 250,2082690688.0,162.0,no change
+GFTU.L,Grafton Group,FTSE 250,2071971328.0,163.0,no change
+JAM.L,JPMorgan American Investment Trust,FTSE 250,2060371584.0,164.0,no change
+CLDN.L,Caledonia Investments,FTSE 250,2030562560.0,165.0,no change
+OCDO.L,Ocado Group,FTSE 250,2025520128.0,166.0,no change
+HGT.L,Hg Capital Trust,FTSE 250,1912170880.0,167.0,no change
+CMCX.L,CMC Markets,FTSE 250,1883368960.0,168.0,no change
+GRG.L,Greggs,FTSE 250,1869854976.0,169.0,no change
+MRC.L,Mercantile Investment Trust,FTSE 250,1817007616.0,170.0,no change
+DNLM.L,Dunelm Group,FTSE 250,1789053312.0,171.0,no change
+BRWM.L,BlackRock World Mining Trust,FTSE 250,1778489216.0,172.0,no change
+BYG.L,Big Yellow Group,FTSE 250,1775315840.0,173.0,no change
+TRIG.L,The Renewables Infrastructure Group,FTSE 250,1757296256.0,174.0,no change
+RAT.L,Rathbones,FTSE 250,1740827904.0,175.0,no change
+SHAW.L,Shawbrook Bank,FTSE 250,1722763392.0,176.0,no change
+OSB.L,OSB Group,FTSE 250,1700843648.0,177.0,no change
+CHG.L,Chemring Group,FTSE 250,1700416896.0,178.0,no change
+WOSG.L,Watches of Switzerland,FTSE 250,1699721984.0,179.0,no change
+PNL.L,Personal Assets Trust,FTSE 250,1693584128.0,180.0,no change
+IWG.L,International Workplace Group,FTSE 250,1692459520.0,181.0,no change
+PFD.L,Premier Foods,FTSE 250,1690592768.0,182.0,no change
+MAB.L,Mitchells & Butlers,FTSE 250,1688696064.0,183.0,no change
+LWDB.L,Law Debenture,FTSE 250,1676422400.0,184.0,no change
+MNTN.L,Schiehallion Fund,FTSE 250,1665561104.4801724,185.0,no change
+CURY.L,Currys,FTSE 250,1642729984.0,186.0,no change
+SSPG.L,SSP Group,FTSE 250,1614763904.0,187.0,no change
+COA.L,Coats Group,FTSE 250,1609746048.0,188.0,no change
+OXIG.L,Oxford Instruments,FTSE 250,1609064064.0,189.0,no change
+PIN.L,Pantheon International,FTSE 250,1580942336.0,190.0,no change
+JMGI.L,JPMorgan Emerging Markets Growth & Income,FTSE 250,1557627264.0,191.0,no change
+BOY.L,Bodycote,FTSE 250,1544211712.0,192.0,no change
+SVS.L,Savills,FTSE 250,1540704384.0,193.0,no change
+FSV.L,Fidelity Special Values,FTSE 250,1534657024.0,194.0,no change
+CKN.L,Clarkson,FTSE 250,1532351744.0,195.0,no change
+SRE.L,Sirius Real Estate,FTSE 250,1524538880.0,196.0,no change
+PAG.L,Paragon Banking Group,FTSE 250,1516883456.0,197.0,no change
+GDWN.L,Goodwin,FTSE 250,1500444928.0,198.0,no change
+GNS.L,Genus,FTSE 250,1498946560.0,199.0,no change
+ASHM.L,Ashmore Group,FTSE 250,1478440832.0,200.0,no change
+GPE.L,Great Portland Estates,FTSE 250,1451468288.0,201.0,no change
+LRE.L,Lancashire Holdings,FTSE 250,1441092864.0,202.0,no change
+ATYM.L,Atalaya Mining,FTSE 250,1413814400.0,203.0,no change
+BNKR.L,Bankers Investment Trust,FTSE 250,1408792832.0,204.0,no change
+RHIM.L,RHI Magnesita,FTSE 250,1401164160.0,205.0,no change
+TPK.L,Travis Perkins,FTSE 250,1399734144.0,206.0,no change
+ENOG.L,Energean,FTSE 250,1395067264.0,207.0,no change
+SAFE.L,Safestore,FTSE 250,1379355136.0,208.0,no change
+BHMG.L,BH Macro,FTSE 250,1377551104.0,209.0,no change
+WWH.L,Worldwide Healthcare Trust,FTSE 250,1362033152.0,210.0,no change
+ASL.L,Aberforth Smaller Companies Trust,FTSE 250,1345652864.0,211.0,no change
+FAN.L,Volution Group,FTSE 250,1338742016.0,212.0,no change
+FOUR.L,4imprint,FTSE 250,1315311744.0,213.0,no change
+IHP.L,IntegraFin Holdings,FTSE 250,1308285696.0,214.0,no change
+GRI.L,Grainger,FTSE 250,1307017216.0,215.0,no change
+RPI.L,Raspberry Pi Holdings,FTSE 250,1305546624.0,216.0,no change
+TMPL.L,Temple Bar Investment Trust,FTSE 250,1300899712.0,217.0,no change
+JFJ.L,JPMorgan Japanese Investment Trust,FTSE 250,1294723072.0,218.0,no change
+SEQI.L,Sequoia Economic Infrastructure Income Fund,FTSE 250,1254276608.0,219.0,no change
+BREE.L,Breedon Group,FTSE 250,1223148288.0,220.0,no change
+SNR.L,Senior,FTSE 250,1207127808.0,221.0,no change
+ONT.L,Oxford Nanopore Technologies,FTSE 250,1204548480.0,222.0,no change
+MTRO.L,Metro Bank,FTSE 250,1201785600.0,223.0,no change
+FCSS.L,Fidelity China Special Situations,FTSE 250,1195139328.0,224.0,no change
+GROW.L,Molten Ventures,FTSE 250,1185606656.0,225.0,no change
+WIZZ.L,Wizz Air,FTSE 250,1117623040.0,226.0,no change
+KNOS.L,Kainos,FTSE 250,1095301120.0,227.0,no change
+HAS.L,Hays,FTSE 250,1091137664.0,228.0,no change
+ZIG.L,Zigup,FTSE 250,1084460160.0,229.0,no change
+TRST.L,Trustpilot,FTSE 250,1074498944.0,230.0,no change
+SUPR.L,Supermarket Income REIT,FTSE 250,1064911424.0,231.0,no change
+EDIN.L,Edinburgh Investment Trust,FTSE 250,1061945344.0,232.0,no change
+MONY.L,MONY Group,FTSE 250,1060415424.0,233.0,no change
+PTEC.L,Playtech,FTSE 250,1055822592.0,234.0,no change
+AGT.L,AVI Global Trust,FTSE 250,1046250944.0,235.0,no change
+SDP.L,Schroder AsiaPacific Fund,FTSE 250,1045032320.0,236.0,no change
+ELM.L,Elementis,FTSE 250,1036507648.0,237.0,no change
+SOI.L,Schroder Oriental Income Fund,FTSE 250,1015744000.0,238.0,no change
+MRCH.L,Merchants Trust,FTSE 250,1000950848.0,239.0,no change
+TFIF.L,Twentyfour Income Fund,FTSE 250,996844672.0,240.0,no change
+SAGA.L,Saga,FTSE 250,994470848.0,241.0,no change
+TRY.L,TR Property Investment Trust,FTSE 250,988516544.0,242.0,no change
+IAD.L,Invesco Asia Dragon Trust,FTSE 250,985119872.0,243.0,no change
+FGP.L,FirstGroup,FTSE 250,975045376.0,244.0,no change
+VSVS.L,Vesuvius,FTSE 250,972483200.0,245.0,no change
+BYIT.L,Bytes Technology Group,FTSE 250,958213888.0,246.0,no change
+PETS.L,Pets at Home,FTSE 250,938314944.0,247.0,no change
+MUT.L,Murray Income Trust,FTSE 250,937802496.0,248.0,no change
+CORD.L,Cordiant Digital Infrastructure,FTSE 250,934513024.0,249.0,no change
+SPI.L,Spire Healthcare,FTSE 250,934356224.0,250.0,no change
+CWR.L,Ceres Power,FTSE 250,930911488.0,251.0,no change
+USA.L,Baillie Gifford US Growth Trust,FTSE 250,911832320.0,252.0,no change
+EWI.L,Edinburgh Worldwide Investment Trust,FTSE 250,899299136.0,253.0,no change
+ICGT.L,ICG Enterprise Trust,FTSE 250,894744640.0,254.0,no change
+CVSG.L,CVS Group,FTSE 250,890132800.0,255.0,no change
+VEIL.L,Vietnam Enterprise Investments,FTSE 250,884757696.0,256.0,no change
+TRN.L,Trainline,FTSE 250,877424064.0,257.0,no change
+BCG.L,Baltic Classifieds,FTSE 250,874684096.0,258.0,no change
+PPET.L,Patria Private Equity Trust,FTSE 250,873687424.0,259.0,no change
+VTY.L,Vistry Group,FTSE 250,871094656.0,260.0,no change
+RICA.L,Ruffer Investment Company,FTSE 250,870155328.0,261.0,no change
+OCI.L,Oakley Capital Investments,FTSE 250,869465536.0,262.0,no change
+GAMA.L,Gamma Communications,FTSE 250,868926400.0,263.0,no change
+PHI.L,Pacific Horizon Investment Trust,FTSE 250,865009856.0,264.0,no change
+JDW.L,Wetherspoons,FTSE 250,858528960.0,265.0,no change
+DOCS.L,Dr. Martens,FTSE 250,842112832.0,266.0,no change
+MOON.L,Moonpig,FTSE 250,840343872.0,267.0,no change
+APN.L,Applied Nutrition,FTSE 250,835000000.0,268.0,no change
+CGT.L,Capital Gearing Trust,FTSE 250,825231936.0,269.0,no change
+ESCT.L,European Smaller Companies Trust,FTSE 250,819939712.0,270.0,no change
+SAIN.L,Scottish American Investment Company,FTSE 250,817019264.0,271.0,no change
+FGT.L,Finsbury Growth & Income Trust,FTSE 250,816478208.0,272.0,no change
+JUP.L,Jupiter Fund Management,FTSE 250,815573312.0,273.0,no change
+GSCT.L,Global Smaller Companies Trust,FTSE 250,812043456.0,274.0,no change
+BPCR.L,Biopharma Credit,FTSE 250,810024213.0371209,275.0,no change
+PRN.L,Princes Group,FTSE 250,807519744.0,276.0,no change
+DSCV.L,discoverIE,FTSE 250,772859584.0,277.0,no change
+CSN.L,Chesnara,FTSE 250,769390528.0,278.0,no change
+DOM.L,Domino's Pizza,FTSE 250,753548928.0,279.0,no change
+EWG.L,Eurowag,FTSE 250,734713088.0,280.0,no change
+GEN.L,Genuit Group,FTSE 250,714889024.0,281.0,no change
+HTG.L,Hunting,FTSE 250,706269952.0,282.0,no change
+WKP.L,Workspace Group,FTSE 250,705864576.0,283.0,no change
+VCT.L,Victrex,FTSE 250,702237312.0,284.0,no change
+FCH.L,Funding Circle,FTSE 250,698392256.0,285.0,no change
+BGFD.L,Baillie Gifford Japan Trust,FTSE 250,695961792.0,286.0,no change
+THRL.L,Target Healthcare REIT,FTSE 250,692184896.0,287.0,no change
+MGAM.L,Morgan Advanced Materials,FTSE 250,688272832.0,288.0,no change
+AEP.L,AEP Plantations,FTSE 250,685754880.0,289.0,no change
+BUT.L,Brunner Investment Trust,FTSE 250,673684288.0,290.0,no change
+BAG.L,A.G. Barr,FTSE 250,669627200.0,291.0,no change
+XPS.L,XPS Pensions,FTSE 250,668985216.0,292.0,no change
+TEP.L,Telecom Plus,FTSE 250,661264832.0,293.0,no change
+ATR.L,Schroder Asian Total Return Investment Company,FTSE 250,653564608.0,294.0,no change
+SYNC.L,Syncona,FTSE 250,652770816.0,295.0,no change
+HANA.L,Hansa Investment Company,FTSE 250,647679168.0,296.0,no change
+PAGE.L,PageGroup,FTSE 250,645768064.0,297.0,no change
+SMWH.L,WHSmith,FTSE 250,644742336.0,298.0,no change
+GCP.L,GCP Infrastructure Investments,FTSE 250,643527680.0,299.0,no change
+CBG.L,Close Brothers Group,FTSE 250,640532288.0,300.0,no change
+PPH.L,PPHE Hotel Group,FTSE 250,637925568.0,301.0,no change
+JEGI.L,JPMorgan European Growth & Income,FTSE 250,629274944.0,302.0,no change
+COST.L,Costain Group,FTSE 250,624034496.0,303.0,no change
+AAS.L,Aberdeen Asia Focus,FTSE 250,617899136.0,304.0,no change
+IPO.L,IP Group,FTSE 250,616632512.0,305.0,no change
+GFRD.L,Galliford Try,FTSE 250,615196608.0,306.0,no change
+RTW.L,RTW Biotech Opportunities,FTSE 250,613952862.3432757,307.0,no change
+HFEL.L,Henderson Far East Income,FTSE 250,607700928.0,308.0,no change
+NBPE.L,NB Private Equity Partners,FTSE 250,593183232.0,309.0,no change
+OXB.L,Oxford Biomedica,FTSE 250,592512448.0,310.0,no change
+HRI.L,Herald Investment Trust,FTSE 250,587429440.0,311.0,no change
+HWG.L,Harworth Group,FTSE 250,582063360.0,312.0,no change
+FEML.L,Fidelity Emerging Markets,FTSE 250,577167808.0,313.0,no change
+JEDT.L,JPMorgan European Discovery,FTSE 250,570949888.0,314.0,no change
+AVON.L,Avon Technologies,FTSE 250,564882624.0,315.0,no change
+BRGE.L,BlackRock Greater Europe Investment Trust,FTSE 250,556971712.0,316.0,no change
+HFG.L,Hilton Food Group,FTSE 250,553002752.0,317.0,no change
+FGEN.L,Foresight Environmental Infrastructure,FTSE 250,552901056.0,318.0,no change
+FSG.L,Foresight Group,FTSE 250,551835584.0,319.0,no change
+AO.L,AO World,FTSE 250,543664192.0,320.0,no change
+HSL.L,Henderson Smaller Companies Investment Trust,FTSE 250,540659968.0,321.0,no change
+DATA.L,GlobalData,FTSE 250,539846080.0,322.0,no change
+ATG.L,Auction Technology Group,FTSE 250,536912000.0,323.0,no change
+JEMI.L,JPMorgan Emerging Markets Dividend Income,FTSE 250,534942688.0,324.0,no change
+BMY.L,Bloomsbury Publishing,FTSE 250,534372992.0,325.0,no change
+JSG.L,Johnson Service Group,FTSE 250,533056896.0,326.0,no change
+JCH.L,JPMorgan Claverhouse Investment Trust,FTSE 250,532136320.0,327.0,no change
+NAS.L,North Atlantic Smaller Companies Investment Trust,FTSE 250,529377888.0,328.0,no change
+BRSC.L,BlackRock Smaller Companies Trust,FTSE 250,527182848.0,329.0,no change
+PINT.L,Pantheon Infrastructure,FTSE 250,526359584.0,330.0,no change
+VOF.L,VinaCapital Vietnam Opportunity Fund,FTSE 250,519529952.0,331.0,no change
+THG.L,THG,FTSE 250,510967072.0,332.0,no change
+HFD.L,Halfords,FTSE 250,507885280.0,333.0,no change
+POLN.L,Pollen Street Group,FTSE 250,505755776.0,334.0,no change
+RNK.L,Rank Group,FTSE 250,504967040.0,335.0,no change
+XPP.L,XP Power,FTSE 250,490002464.0,336.0,no change
+ALFA.L,Alfa Financial Software,FTSE 250,489891200.0,337.0,no change
+UEM.L,Utilico Emerging Markets,FTSE 250,485296864.0,338.0,no change
+BOWL.L,Hollywood Bowl Group,FTSE 250,466843520.0,339.0,no change
+PCGH.L,Polar Capital Global Healthcare Trust,FTSE 250,454744992.0,340.0,no change
+MEGP.L,ME Group International,FTSE 250,444858208.0,341.0,no change
+SSIT.L,Seraphim Space Investment Trust,FTSE 250,438283680.0,342.0,no change
+WIX.L,Wickes,FTSE 250,435840640.0,343.0,no change
+AIE.L,Ashoka India Equity Investment Trust,FTSE 250,434554144.0,344.0,no change
+PEY.L,Partners Group Private Equity,FTSE 250,408649134.7015483,345.0,no change
+SEIT.L,SDCL Efficiency Income Trust,FTSE 250,396178144.0,346.0,no change
+NCC.L,NCC Group,FTSE 250,387709120.0,347.0,no change
+GBG.L,GB Group,FTSE 250,363338304.0,348.0,no change
+AML.L,Aston Martin Lagonda,FTSE 250,354004128.0,349.0,no change
+ROR.L,Rotork,FTSE 250,208708752.0,350.0,no change
